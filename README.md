@@ -3,7 +3,7 @@
 ## 💫 About Me:
 - 🌱 I’m currently learning and working on Machine learning, Deep learning, Data science<br>
 - ⚡ I document my projects and learnings here<br>
-- :handshake: Open for collaborations<br>
+- :handshake: Open for project collaborations<br>
 - :iphone: I also work on Augmented and Virtual Reality development
 
 
