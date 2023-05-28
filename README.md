@@ -23,8 +23,8 @@
 
 ## :bulb: My Interests:
 - Machine Learning
-- Deep Learning 
 - NLP
+- Deep Learning 
 - Data Analysis and Visualization
 
 ## :man_technologist: Projects:
@@ -37,6 +37,10 @@ Image classification problem where the main goal is to identify if the potato le
 
 ### Insurance Fraud detection
 The aim of this project is to build a classification model to detect if a vehicle insurance claim made by the customer is fraudulent or not. 30+ features like education level, months as customer, umbrella limit, accident severity etc were analyzed from the dataset an predictions were made. Performed hyper parameter tuning on algorithms like Support Vector Classifier, XGBoost and Random Forest Classifier.[View Project Here](https://github.com/Surbhit01/InsuranceFraudDetection)
+
+### Text Sentiment Classification
+Sentiment classification problem where a phrase/sentence will be taken as input and its sentiment will be predicted - either positive or negative. This has been trained on 7900+ tweets from twitter. I have performed text preprocessing like stopword removal, lemmetization, removing special characters etc. Used tfidf vectorizer and logistic regression for modelling. Performed hyper parameter tuning to tune the model performance.
+ [View Project Here](https://github.com/Surbhit01/SentimentClassification)
 
 **🚀 More projects coming soon**
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
