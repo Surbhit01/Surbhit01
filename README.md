@@ -1,7 +1,7 @@
 # Hello, I'm Surbhit! 👋
 
 ## 💫 About Me:
-🌱 I’m currently developing my skills and working on Machine learning, Deep learning, Data science, Natural language processing<br>
+🌱 I’m currently developing my skills and working on Machine learning, Deep learning & Natural language processing<br>
 :iphone: I also work on Augmented and Virtual Reality development <br>
 ⚡ I document my projects and learnings here<br>
 :handshake: Open for discussions and project collaborations<br>
