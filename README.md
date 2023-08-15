@@ -29,6 +29,9 @@
 
 ## :man_technologist: Projects:
 
+### Wine Quality Prediction
+Implemented an end to end machine learning project to detect the quality of wine based on various parameters. The implementation contains various stages of a machine learning life cycle like data ingestion, data validation, data transformation, model training and evaluation. MLFlow has been implemented to log and track the various parameters and metrics during model training. ElasticNet algorithm has been used for predicting the wine quality (regession). The application was deployed on an AWS EC2 instance and CICD has been implemented using Github Actions. [View Project Here](https://github.com/Surbhit01/WineQualityPrediction)
+
 ### Home Loan Prediction
 Predict if the home loan application request should be accepted or not based of several factors like gender, property type, applicant income etc. Performed necessary data preprocessing like mapping, one hot encoding and trained random forest classifier for the prediction. [View Project Here](https://github.com/Surbhit01/HomeLoanPrediction)
 
