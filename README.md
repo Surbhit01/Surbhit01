@@ -24,6 +24,7 @@
 ## :bulb: My Interests:
 - Machine Learning
 - NLP
+- Computer Vision
 - Deep Learning 
 - Data Analysis and Visualization
 
