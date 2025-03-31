@@ -1,7 +1,7 @@
 # Hello, I'm Surbhit! 👋
 
 ## 💫 About Me:
-Hello, I'm Surbhit.
+
 With around 4.5 years of experience, I've worked across various technologies, including **augmented reality**, **virtual reality**, **DevOps**, **deep learning**, **machine learning**, and **generative AI**. I did my **B.Tech** from **Manipal Institute of Technology** in **Instrumentation and Control Engineering** (2016-2020).
 
 Currently, I’m working as a Member of Technical Staff (2), where my primary responsibility is **building and evaluating ML models**, **developing APIs and pipelines** in Python for various services, and deploying those models and services using **Docker** and **Kubernetes**.
@@ -28,7 +28,6 @@ Built a movie recommendation system using the **MovieLens-100k dataset**, which 
 ### [Text Sentiment Classification](https://github.com/Surbhit01/SentimentClassification)
 Sentiment classification problem where a phrase/sentence will be taken as input and its sentiment will be predicted - either positive or negative. This has been trained on 7900+ tweets from twitter. I have performed text preprocessing like stopword removal, lemmetization, removing special characters etc. Used tfidf vectorizer and logistic regression for modelling. Performed hyper parameter tuning to tune the model performance.
  
-
 ### [Insurance Fraud detection](https://github.com/Surbhit01/InsuranceFraudDetection)
 The aim of this project is to build a classification model to detect if a vehicle insurance claim made by the customer is fraudulent or not. 30+ features like education level, months as customer, umbrella limit, accident severity etc were analyzed from the dataset an predictions were made. Performed hyper parameter tuning on algorithms like Support Vector Classifier, XGBoost and Random Forest Classifier.
 
