@@ -6,7 +6,7 @@ With around 4.5 years of experience, I've worked across various technologies, in
 
 Currently, I’m working as a Member of Technical Staff (2), where my primary responsibility is **building and evaluating ML models**, **developing APIs and pipelines** in Python for various services, and deploying those models and services using **Docker** and **Kubernetes**.
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=adobeacrobatreader)](https://github.com/Surbhit01/Surbhit01/raw/blob/main/SurbhitKumarCV.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=adobeacrobatreader)](https://github.com/Surbhit01/Surbhit01/raw/main/SurbhitKumarCV.pdf)
 
 ## 💡 My Interests:
 Over the years, I've explored and worked with various technologies. Through this journey, I've identified the key areas that truly interest me and where I’d love to contribute.
@@ -53,6 +53,6 @@ Here are some of the technologies I’ve worked with. <br>
 ## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surbhit-kumar/)
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=adobeacrobatreader)](https://github.com/Surbhit01/Surbhit01/raw/blob/main/SurbhitKumarCV.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=adobeacrobatreader)](https://github.com/Surbhit01/Surbhit01/raw/main/SurbhitKumarCV.pdf)
 
 [![Email](https://img.shields.io/badge/Email-surbhit3812@gmail.com-blue?style=flat&logo=gmail)](mailto:surbhit3812@gmail.com) : `surbhit3812@gmail.com`
