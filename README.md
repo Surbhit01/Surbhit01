@@ -6,6 +6,10 @@ With around 4.5 years of experience, I've worked across various technologies, in
 
 Currently, I’m working as a Member of Technical Staff (2), where my primary responsibility is **building and evaluating ML models**, **developing APIs and pipelines** in Python for various services, and deploying those models and services using **Docker** and **Kubernetes**.
 
+Previously, I was a part of Wipro (Lab45), Bangalore where I actively contributed to the conceptualization and implementation of Lab45’s AI platform. I’ve worked on the development of efficient RAG pipelines. This involved integrating vector databases, implementing embedding-based retrieval and structuring the pipeline for efficient handling of data ingestion, retrieval and generation process. I was also responsible for development of deep learning and traditional machine learning based models for predicting the device functioning for a client POC.
+
+Beyond my professional experience, I am well-versed in a broad range of technologies and concepts, including supervised and unsupervised learning, deep learning, natural language processing, transformers, LLMs, vector databases, RAG pipeline and AI agents. I’ve worked extensively with tools and frameworks such as Python, Scikit-learn, XGBoost, FastAPI, Flask, Tensorflow, PyTorch, Hugging Face Transformers, LangChain, Pinecone, Docker, and SQL.
+
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=adobeacrobatreader)](https://github.com/Surbhit01/Surbhit01/raw/main/SurbhitKumarCV.pdf)
 
 ## 💡 My Interests:
